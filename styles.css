@@ -25,13 +25,13 @@
 }
 .num-container {
     display:grid;
-    grid-template-columns:33% 33% 33%;
+    grid-template-columns:25% 25% 25% 25%;
     font-size: 2em;
 }
 .num-keys {
     background-color: #082852;
     grid-row-start: 2;
-    grid-column-start: 1;
+    grid-column-start: 2;
     grid-column-end: 3;
 }
 .number {
